@@ -82,5 +82,10 @@ body{
     color: rgb(0, 0, 255);
 }
 .card-boy h4{
-    font-size:15px;
+    font-size:16px;
+    font-weight:bolder;
+    
+}
+.card-boy{
+    overflow:auto;
 }
